@@ -14,10 +14,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👯 I’m looking to collaborate on ...
--->
-
-> “Never Ever Give Up!!”
-
----
 
 *Let’s build, automate, and innovate together!*
+
+-->
+---
+> **“Never Ever Give Up!!”**
+---
