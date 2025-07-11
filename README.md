@@ -8,6 +8,7 @@
 - 📫 How to reach me:
   - **LinkedIn:** [nishithchoudhary](https://www.linkedin.com/in/nishithchoudhary)
   - **Twitter:** [@its__nishith](https://x.com/its__nishith)
+  - **Medium:** [nishithchoudhary](https://medium.com/@nishithchoudhary)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,5 +20,5 @@
 
 -->
 ---
-> **“Never Ever Give Up!!”**
+>  **“Never Ever Give Up!!”**
 ---
