@@ -25,12 +25,6 @@ A seasoned **Data Scientist & Analyst** with **5+ years of experience** speciali
 
 ---
 
-### 📊 GitHub Stats
-![Nishith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiousnish&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curiousnish&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [nishithchoudhary](https://www.linkedin.com/in/nishithchoudhary)
 - **Twitter:** [@its__nishith](https://x.com/its__nishith)
